@@ -3,7 +3,7 @@
 let guestList:string[] = ["asad","irfan","ali"];
 
 for(let i = 0; i < guestList.length; i++ ){
-    console.log(`Dear ${guestList[i]}, you invite to dinner.`);
+    console.log(`Dear ${guestList[i]}, you are invited to dinner.`);
     
 
 }
