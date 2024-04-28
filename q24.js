@@ -19,7 +19,7 @@ console.log(string1 !== string2); // true
 //• Tests using the lower case function.
 var upperCase = "DANISH";
 var lowerCase = "danish";
-console.log(upperCase.toLowerCase() === lowerCase);
+console.log(upperCase.toLowerCase() === lowerCase); //true
 //• Numerical tests.
 var num1 = 10;
 var num2 = 20;

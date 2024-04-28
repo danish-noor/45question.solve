@@ -23,7 +23,7 @@ console.log(string1 !== string2); // true
 const upperCase: string = "DANISH";
 const lowerCase: string = "danish";
 
-console.log(upperCase.toLowerCase() === lowerCase);
+console.log(upperCase.toLowerCase() === lowerCase);//true
 
 //• Numerical tests.
 let num1: number = 10;
