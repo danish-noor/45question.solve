@@ -5,4 +5,4 @@ function make_shirt(size: string, message:string){
     
           
 }
- make_shirt("medium","message");
+ make_shirt("medium","code is life");
